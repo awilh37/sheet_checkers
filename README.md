@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Chess Login Data</title>
-</head>
 <body>
   <table>
     <tr>
